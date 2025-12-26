@@ -5,7 +5,7 @@ if light == "green":
 elif light == "red":
     print("Stop")
 elif light == "yellow":
-    print("Wait")
+    print("Look")
 else:
     print("Not valid colour")
 

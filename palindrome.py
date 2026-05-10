@@ -1,4 +1,4 @@
-list=[1,6,3]
+list=[1,2,1]
 copy_list=list.copy()
 copy_list.reverse()
 

@@ -5,7 +5,3 @@ if(year%4==0):
 else:
     print("Not a leap year.")
 
-"""Enter a year for leap year:2011
-Not a leap year.
-Enter a year for leap year:2024
-A leap year."""
